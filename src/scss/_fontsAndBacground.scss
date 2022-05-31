@@ -1,0 +1,33 @@
+@import url('https://fonts.googleapis.com/css2?family=Gluten&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Comfortaa&display=swap');
+
+.font-light {
+    color: $color-light;
+}
+
+.font-primary-light {
+    color: $color-primary-light;
+}
+
+.font-primary {
+    color: $color-primary;
+}
+
+.bg-light {
+    background-color: $color-light;
+}
+
+.bg-primary-light {
+    background-color: $color-primary-light;
+}
+
+.bg-primary-dark {
+    background-color: $color-primary;
+}
+
+.gluten {
+    font-family: 'Gluten',  cursive;
+}
+.comforta {
+    font-family: 'Comfortaa', cursive;
+}

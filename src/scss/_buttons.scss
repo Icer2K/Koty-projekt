@@ -1,0 +1,12 @@
+button.btn.bg-primary-dark:focus {
+    outline: none;
+    box-shadow: 0 0 0 0rem rgb(255, 255, 255);
+}
+button.btn.bg-primary-dark {
+    text-align: center;
+    transition: 'text-align' 2s;
+}
+button.btn.bg-primary-dark:hover {
+    font-weight: bold;
+    text-align: right;
+}
